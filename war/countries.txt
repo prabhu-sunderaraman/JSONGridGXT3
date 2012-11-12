@@ -1,0 +1,8 @@
+{ 
+
+	"countries" : [ 
+					{ "name": "India" , "capital" : "New Delhi"},
+					{ "name": "USA" , "capital" : "Washington, D.C"},
+					{ "name": "UK" , "capital" : "London"}  
+				 ] 
+}
